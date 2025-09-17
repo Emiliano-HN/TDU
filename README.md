@@ -1,6 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
+# Estudios del Ingeniero Emiliano Hernández Navarrete
 
 <h1>Instituto Politecnico Nacional (IPN)<p>
 <p>
