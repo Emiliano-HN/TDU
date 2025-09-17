@@ -4,7 +4,7 @@
 
 <p>
     <img src="Titulos/Titulo IPN.png" alt="GitHub" width="405" height="800"/> 
-    <img src="assets/Titulo UNAM.png" alt="GitHub" width="405" height="800"/>  
+    <img src="Titulos/Titulo UNAM.png" alt="GitHub" width="405" height="800"/>  
 </p>
 
 <p> 
