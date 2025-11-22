@@ -13,7 +13,7 @@
 </p>
 <h1>Universidad Nacional Autónoma de México (UNAM)</h1>
 <p>
-    <img src="Titulos/Doctor en Robotica.png" alt="UNAM" width="405" height="800"/> 
+    <img src="Titulos/Doctor en Robótica.png" alt="UNAM" width="405" height="800"/> 
 </p>
 <h1>Escuela Mexicana de Computación e Informática Avanzada, S. C. (E.M.C.I.A.)</h1>
 <p> 
