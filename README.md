@@ -3,9 +3,17 @@
 </div>
 <h1>Studies by Engineer Emiliano Hernández Navarrete</h1>
 
-<h1>Instituto Politecnico Nacional (IPN)</h1>
+<h1>Universidad Nacional Autónoma de México (UNAM)</h1>
 <p>
-    <img src="Titulos/Titulo IPN.png" alt="IPN" width="405" height="800"/> 
+    <img src="Titulos/Titulo IPN.png" alt="UNAM" width="405" height="800"/> 
+</p>
+<h1>Universidad Nacional Autónoma de México (UNAM)</h1>
+<p>
+    <img src="Titulos/Titulo IPN.png" alt="UNAM" width="405" height="800"/> 
+</p>
+<h1>Universidad Nacional Autónoma de México (UNAM)</h1>
+<p>
+    <img src="Titulos/Titulo IPN.png" alt="UNAM" width="405" height="800"/> 
 </p>
 <h1>Universidad Nacional Autónoma de México (UNAM)</h1>
 <p>
