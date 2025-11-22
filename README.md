@@ -5,15 +5,15 @@
 
 <h1>Universidad Nacional Autónoma de México (UNAM)</h1>
 <p>
-    <img src="Titulos/Titulo IPN.png" alt="UNAM" width="405" height="800"/> 
+    <img src="Titulos/Titulo Ingeniero en sistemas.png" alt="UNAM" width="405" height="800"/> 
 </p>
 <h1>Universidad Nacional Autónoma de México (UNAM)</h1>
 <p>
-    <img src="Titulos/Titulo IPN.png" alt="UNAM" width="405" height="800"/> 
+    <img src="Titulos/Titulo Maestro en Ciberseguridad.png" alt="UNAM" width="405" height="800"/> 
 </p>
 <h1>Universidad Nacional Autónoma de México (UNAM)</h1>
 <p>
-    <img src="Titulos/Titulo IPN.png" alt="UNAM" width="405" height="800"/> 
+    <img src="Titulos/Titulo Doctor en Robotica.png" alt="UNAM" width="405" height="800"/> 
 </p>
 <h1>Escuela Mexicana de Computación e Informática Avanzada, S. C. (E.M.C.I.A.)</h1>
 <p> 
